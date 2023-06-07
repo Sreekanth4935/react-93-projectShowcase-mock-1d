@@ -10,6 +10,8 @@ The goal of this coding exam is to quickly get you off the ground with **setStat
 
 <br/>
 
+https://github.com/Sreekanth4935/react-93-projectShowcase-mock-1d/assets/37910008/b586cb31-3a2e-4ce0-a169-45773a461c4b
+
 **Failure View**
 
 <div style="text-align: center;">
