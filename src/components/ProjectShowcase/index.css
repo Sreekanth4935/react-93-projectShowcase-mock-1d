@@ -1,0 +1,69 @@
+.main-container {
+  font-family: 'Roboto';
+  background-color: #f1f5f9;
+  min-height: 100vh;
+}
+.nav-container {
+  background-color: #e6e9ec;
+  padding: 20px;
+}
+.website-log-img {
+  height: 50px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.bottom-container {
+  padding: 20px;
+}
+.option {
+  width: 30%;
+  padding: 10px;
+  margin-left: 20px;
+  outline: none;
+  border: solid 1px #e2e8f0;
+}
+.ul-container {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  line-height: 1;
+}
+.li-element {
+  margin: 20px;
+  background-color: #fff;
+  box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+  text-align: center;
+  border-radius: 10px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.failure-container {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.failure-img {
+  height: 200px;
+}
+
+.retry-btn {
+  background-color: #328af2;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  color: #ffffff;
+  width: 60px;
+  outline: none;
+  cursor: pointer;
+}
